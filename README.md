@@ -7,7 +7,7 @@ YOLOv5n: Trained on COWC(Cars Overhead with Context) dataset.
 
 ![alt text](https://github.com/juheon727/ysc2024_h028/blob/main/road.jpeg?raw=true)
 [alt text](https://github.com/juheon727/ysc2024_h028/blob/main/road_detection.jpeg?raw=true)
-![alt text](https://github.com/juheon727/ysc2024_h028/blob/main/roadmap_after.png?raw=true)
+![alt text](https://github.com/juheon727/ysc2024_h028/blob/main/roadmap_after.png?raw=true = 224x224)
 
 References
 
