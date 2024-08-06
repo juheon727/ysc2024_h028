@@ -6,6 +6,7 @@ Source code of project by MIAS in YSC 2024
 YOLOv5n: Trained on COWC(Cars Overhead with Context) dataset.
 
 ![alt text](https://github.com/juheon727/ysc2024_h028/blob/main/road.jpeg?raw=true)
+![alt text](https://github.com/juheon727/ysc2024_h028/blob/main/road_detection_after.jpeg?raw=true)
 
 References
 
