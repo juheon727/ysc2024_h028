@@ -2,7 +2,8 @@
 # MIAS YSC 2024
 
 Source code of project by MIAS in YSC 2024
-
+We used color matching to find the road in a given image in a satellite view of a road network.
+In addition, we used a YOLO detector for the cars.
 YOLOv5n: Trained on COWC(Cars Overhead with Context) dataset.
 
 <p align="center">
